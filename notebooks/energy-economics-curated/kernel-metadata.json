@@ -1,0 +1,14 @@
+{
+  "id": "zoupet/energy-economics-curated-eda",
+  "title": "Energy Economics Curated Dataset - EDA",
+  "code_file": "energy-economics-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": ["sandhyapalaniappan/energy-economics-curated-dataset"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

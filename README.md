@@ -8,6 +8,7 @@ A collection of exploratory data analysis notebooks for Kaggle datasets.
 ├── data/                        # Raw CSV datasets
 ├── notebooks/                   # EDA notebooks (one folder per dataset)
 │   ├── energy-economics-curated/
+│   ├── axp-time-series-stock-data-19722026/
 │   └── toyota-stock-market-intelligence/
 ├── credentials.json             # Kaggle API token (not tracked)
 └── .gitignore
@@ -19,6 +20,7 @@ A collection of exploratory data analysis notebooks for Kaggle datasets.
 |---|---------|----------|-------------|
 | 1 | Toyota Stock Market Intelligence (1980–2026) | `notebooks/toyota-stock-market-intelligence/toyota-stock-eda.ipynb` | [link](https://www.kaggle.com/datasets/mdmahfuzsumon/toyota-stock-market-intelligence-19802026/data) |
 | 2 | Energy Economics Curated Dataset | `notebooks/energy-economics-curated/energy-economics-eda.ipynb` | [link](https://www.kaggle.com/datasets/sandhyapalaniappan/energy-economics-curated-dataset) |
+| 3 | AXP Time Series Stock Data (1972-2026) | `notebooks/axp-time-series-stock-data-19722026/eda.ipynb` | [link](https://www.kaggle.com/datasets/borovai0/axp-time-series-stock-data-19722026) |
 
 ## Setup
 

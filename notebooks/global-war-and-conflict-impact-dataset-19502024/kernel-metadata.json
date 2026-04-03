@@ -1,0 +1,14 @@
+{
+  "id": "zoupet/global-war-and-conflict-impact-1950-2024-eda",
+  "title": "Global War & Conflict Impact (1950-2024) - EDA",
+  "code_file": "eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": ["khushikyad001/global-war-and-conflict-impact-dataset-19502024"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

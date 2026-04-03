@@ -1,0 +1,14 @@
+{
+  "id": "zoupet/pokemon-complete-stats-gen-1-to-gen-9-eda",
+  "title": "Pokemon Complete Stats (Gen 1 to Gen 9) - EDA",
+  "code_file": "eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": ["ibrahimqasimi/pokemon-complete-stats-gen-1-to-gen-9"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
